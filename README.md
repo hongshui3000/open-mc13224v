@@ -18,7 +18,7 @@ I started this project with the Freescale MC13224V kits from [RedWireLLC](http:/
 The requirements for this project are:
   * make
   * Python 2.4+
-  * gcc for ARM (see [here](wiki/ArmSuite.md) for build instructions)
+  * gcc for ARM (see [here](../blob/wiki/ArmSuite.md) for build instructions)
   * USB port
 
 Optional:
